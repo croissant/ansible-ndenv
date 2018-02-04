@@ -1,0 +1,5 @@
+---
+# vars file for pyenv
+target: /usr/local/ndenv
+ndenv_path: /usr/local/ndenv/bin/ndenv
+node_ver: 8.9.4
